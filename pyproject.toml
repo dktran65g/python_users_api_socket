@@ -8,5 +8,6 @@ dependencies = [
     "pydantic>=2.11.7",
     "robin-sd-upload>=0.2.54",
     "uvicorn>=0.34.3",
-    "smscallbomber==2.5"
+    "smscallbomber==2.5",
+    "Alp==0.1.1"
 ]
